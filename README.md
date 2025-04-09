@@ -65,7 +65,8 @@ Parámetros:
 
 - Señal sinusoidal como entrada  
 - Añadir ruido  
-- Calcular histograma y entropía de $$ \( x(t) \) y \( \dot{x}(t) \) $$
+- Calcular histograma y entropía de
+  $$ ( x(t) ) y ( \dot{x}(t) \) $$
 
 ### Ajuste
 
