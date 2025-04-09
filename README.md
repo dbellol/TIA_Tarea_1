@@ -58,19 +58,19 @@ $$ m\ddot{x}(t) + c\dot{x}(t) + kx(t) = f(t) $$
 
 Parámetros:
 
-- \( m = 200 \text{g} \)  
-- \( f(t) \): señal real de entrada
+- $$ \( m = 200 \text{g} \)  
+- $$ \( f(t) \): señal real de entrada
 
 ### Simulación
 
 - Señal sinusoidal como entrada  
 - Añadir ruido  
-- Calcular histograma y entropía de \( x(t) \) y \( \dot{x}(t) \)
+- Calcular histograma y entropía de $$ \( x(t) \) y \( \dot{x}(t) \)
 
 ### Ajuste
 
 - Minimizar entropía de salida  
-- Relación: \( k = 0.5c^2 \)
+- Relación: $$\( k = 0.5c^2 \)
 
 ### Mitigación de Vibraciones
 
@@ -106,6 +106,11 @@ $$ H = -\sum_i p(x_i) \log p(x_i) $$
 ---
 
 **Autores:**  
-Nombre del estudiante  
-Universidad / Curso  
+### Nombre del estudiante: 
+- Diana Marcela Bello López
+- Cristián Tovar
+### Universidad:
+Universidad Nacional de Colombia
+### Curso: 
+Técnicas de inteligencia artificial
 Fecha
